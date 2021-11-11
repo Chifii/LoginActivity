@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1071995580048",
+    "project_id": "intercorpexercise",
+    "storage_bucket": "intercorpexercise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071995580048:android:fc73501b8d60d2e6bcf215",
+        "android_client_info": {
+          "package_name": "com.nt.Intercorp_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071995580048-jr4gkouq2dabh60sc23l7lu2puo9769t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nt.Intercorp_login",
+            "certificate_hash": "69eff2d05a4c95c7c7caa6b054f02778089bb732"
+          }
+        },
+        {
+          "client_id": "1071995580048-ki3oc392imgmcer7e792v1pa592kv4dd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHhGwKI1qy_cfM10jEZa22gpOJIzjRKwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071995580048-ki3oc392imgmcer7e792v1pa592kv4dd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
